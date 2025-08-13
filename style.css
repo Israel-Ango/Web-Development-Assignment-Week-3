@@ -1,0 +1,39 @@
+body {
+margin: 20px;
+    background:#fff2df;
+
+}
+
+h1 {
+
+color:black;
+font-family: sans-serif;
+font-size: 30px;
+}
+
+p{
+
+color:black;
+
+font-family: Arial, sans-serif;
+font-size: 30px;
+
+}
+
+
+
+.box1 {
+   
+border:5px solid black;
+width:250px;
+  padding: 20px;
+}
+
+.box2 {
+   
+border:5px solid black;
+width:250px;
+padding: 20px;
+      
+}
+
